@@ -2,6 +2,8 @@
 
 ## Prerequisites
 
+###below software should be installed on your machine.
+
  1) XAMPP 
  2) PHP 
  3) laravel 
