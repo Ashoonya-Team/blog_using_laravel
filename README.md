@@ -1,3 +1,13 @@
+<a href="https://github.com/Ashoonya-Team/blog_using_laravel/graphs/contributors" alt="Contributors">
+ <img src="https://img.shields.io/github/contributors/Ashoonya-Team/blog_using_laravel" /></a>
+ 
+
+ <a href="#">
+ <img src="https://img.shields.io/github/commit-activity/w/Ashoonya-Team/blog_using_laravel" /></a>
+ 
+
+
+
 # Blog_using_laravel
 
 ## Prerequisites
@@ -26,3 +36,4 @@
  Note: Please start watching from 1:05 (because we have already cloned our project to locally)
  
  https://www.youtube.com/watch?v=Cjlh89Zxb6E&ab_channel=WebTechKnowledge
+
