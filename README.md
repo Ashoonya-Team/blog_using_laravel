@@ -30,10 +30,15 @@
 
 ## Step 2: Run the project (just to check everything working fine)
 
- 1) Please follow below tutorial guide in order to run the project 
+ 1) Follow these commands
+ 2) `composer update`
+ 3) `php artisan key:generate`
+ 4) `php artisan serv` 
 
  ### Resource
  Note: Please start watching from 1:05 (because we have already cloned our project to locally)
  
+ * Please follow below tutorial guide in order to run the project 
+
  https://www.youtube.com/watch?v=Cjlh89Zxb6E&ab_channel=WebTechKnowledge
 
