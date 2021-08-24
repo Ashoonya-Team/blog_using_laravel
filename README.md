@@ -35,6 +35,9 @@
  3) `php artisan key:generate`
  4) `php artisan serv` 
 
+## Step 3: To Pull Project follow these commands
+1)`git pull`
+2)`php artisan migrate`
  ### Resource
  Note: Please start watching from 1:05 (because we have already cloned our project to locally)
  
