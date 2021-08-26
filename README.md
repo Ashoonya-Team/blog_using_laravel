@@ -37,6 +37,9 @@
  5) `php artisan migrate:refresh` ----- to pull changes made in DB
  6) `php artisan serv` ---- TO run the project
 
+## Step 3: To Pull Project follow these commands
+1)`git pull`
+2)`php artisan migrate`
  ### Resource
  Note: Please start watching from 1:05 (because we have already cloned our project to locally)
  
