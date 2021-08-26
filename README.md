@@ -32,8 +32,10 @@
 
  1) Follow these commands
  2) `composer update`
- 3) `php artisan key:generate`
- 4) `php artisan serv` 
+ 3) `php artisan key:generate` ----- Before this step please check .env.example file is updated to .env file. 
+ 4) `php artisan migrate` ----- it will create a DB (while running first time only)
+ 5) `php artisan migrate:refresh` ----- to pull changes made in DB
+ 6) `php artisan serv` ---- TO run the project
 
  ### Resource
  Note: Please start watching from 1:05 (because we have already cloned our project to locally)
